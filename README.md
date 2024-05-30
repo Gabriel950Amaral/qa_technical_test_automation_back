@@ -132,7 +132,7 @@ $ npm run allure:clear
 
 ### Suporte
 
-- Linkedin: <a href="https://www.linkedin.com/in/gabriel-a-60ba8922a/" target="_blank">**Lucas Fraga**</a>
+- Linkedin: <a href="https://www.linkedin.com/in/gabriel-a-60ba8922a/" target="_blank">**Gabriel Amaral**</a>
 
 - E-mail: **gabrielgta.com@gmail.com**
 
