@@ -82,6 +82,7 @@ $ git clone https://github.com/Gabriel950Amaral/test_back_final_melhor_envio
 > Para instalar as dependências do repositório:
 
 ```js
+npm install cypress --save-dev
 $ npx ci
 ```
 
@@ -94,7 +95,7 @@ $ npx test
 > Para rodar os testes no modo interativo do cypress:
 
 ```js
-$ npx run cy:open
+$ npx cypress open
 ```
 
 > Para rodar os testes no modo headless do cypress:
